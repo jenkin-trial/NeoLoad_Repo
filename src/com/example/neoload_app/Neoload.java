@@ -10,7 +10,7 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
-public class MainActivity extends Activity implements OnClickListener{
+public class Neoload extends Activity implements OnClickListener{
 Button b;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
