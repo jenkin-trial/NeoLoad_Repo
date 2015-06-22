@@ -25,7 +25,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="48dp"
-        android:text="new Demo App "
+        android:text="BTV Demo App "
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </RelativeLayout>
