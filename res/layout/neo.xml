@@ -16,7 +16,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="44dp"
-        android:text="Test Demo App"
+        android:text="new Demo App"
         android:textSize="20sp" />
 
     <Button
