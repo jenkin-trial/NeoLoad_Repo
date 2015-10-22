@@ -42,7 +42,7 @@ Button b;
 	@Override
 	public void onClick(View v) {
 		// TODO Auto-generated method stub
-		 goToUrl ( "https://personal.aib.ie/");
+		 goToUrl ( "http://www.abbvie.com/");
 	}
 	 private void goToUrl (String url) {
 	        Uri uriUrl = Uri.parse(url);
