@@ -43,6 +43,8 @@ Button b;
 	public void onClick(View v) {
 		// TODO Auto-generated method stub
 		 goToUrl ( "http://www.abbvie.com/");
+		 
+		 
 	}
 	 private void goToUrl (String url) {
 	        Uri uriUrl = Uri.parse(url);
