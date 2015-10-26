@@ -42,7 +42,9 @@ Button b;
 	@Override
 	public void onClick(View v) {
 		// TODO Auto-generated method stub
-		 goToUrl ( "http://www.abbvie.com/");
+		 //goToUrl ( "http://www.abbvie.com/");
+		 goToUrl ( "http://www.eon.com/en.html");
+		 
 		 
 		 
 	}
