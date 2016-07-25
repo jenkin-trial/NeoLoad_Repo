@@ -1,2 +1,2 @@
-C:\Users\pallavi.snehal\git\Neoload_app\bin\AndroidManifest.xml : \
-C:\Users\pallavi.snehal\git\Neoload_app\AndroidManifest.xml \
+C:\Jenkins_Project\Neoload_app\bin\AndroidManifest.xml : \
+C:\Jenkins_Project\Neoload_app\AndroidManifest.xml \

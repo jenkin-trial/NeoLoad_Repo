@@ -1,4 +1,4 @@
-C:\Jenkins_Project\Neoload_app\bin\Neoload.ap_ \
+C:\Jenkins_Project\Neoload_app\gen\com\example\neoload_app\R.java \
  : C:\Jenkins_Project\Neoload_app\res\drawable\bg.png \
 C:\Jenkins_Project\Neoload_app\res\drawable\button_bg.xml \
 C:\Jenkins_Project\Neoload_app\res\drawable\color.png \
@@ -22,10 +22,4 @@ C:\Jenkins_Project\Neoload_app\res\values\styles.xml \
 C:\Jenkins_Project\Neoload_app\res\values-v11\styles.xml \
 C:\Jenkins_Project\Neoload_app\res\values-v14\styles.xml \
 C:\Jenkins_Project\Neoload_app\res\values-w820dp\dimens.xml \
-C:\Jenkins_Project\Neoload_app\bin\res\drawable\color.png \
-C:\Jenkins_Project\Neoload_app\bin\res\drawable\logo.png \
-C:\Jenkins_Project\Neoload_app\bin\res\drawable-hdpi\ic_launcher.png \
-C:\Jenkins_Project\Neoload_app\bin\res\drawable-mdpi\ic_launcher.png \
-C:\Jenkins_Project\Neoload_app\bin\res\drawable-xhdpi\ic_launcher.png \
-C:\Jenkins_Project\Neoload_app\bin\res\drawable-xxhdpi\ic_launcher.png \
 C:\Jenkins_Project\Neoload_app\bin\AndroidManifest.xml \
